@@ -2,5 +2,5 @@
 
 <div align="center">
   
-  ![snake gif](https://github.com/Marluc0/Marluc0/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/Marluc0/Marluc0/blob/output/ocean.gif)
 </div>
