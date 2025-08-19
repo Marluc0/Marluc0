@@ -63,7 +63,7 @@ jobs:
 
             dist/github-snake-dark.svg?palette=github-dark
 
-            dist/ocean.gif?color_snake=purple&color_dots=#FFA500, #FF8C00, #FF6347, #CC5500, #FF4500
+            dist/ocean.gif?color_snake=purple&color_dots=#FFDAB9, #FFEBCD, #FFEFD5, #CD7F32, #D2691E
 
         env:
 
